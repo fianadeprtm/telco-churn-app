@@ -2,7 +2,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import joblib  # ← BENAR
+import joblib
 import pickle
 import sklearn
 from sklearn.preprocessing import StandardScaler
@@ -203,3 +203,4 @@ if st.button('🔮 Prediksi Churn', type='primary'):
 # Footer
 st.markdown("---")
 st.caption("Proyek UAS Bengkel Koding Data Science - Universitas Dian Nuswantoro")
+
