@@ -296,4 +296,5 @@ st.markdown("---")
 st.caption("""
 Proyek UAS Bengkel Koding Data Science - Universitas Dian Nuswantoro  
 Deployed dengan Streamlit Cloud | Model: Random Forest Classifier
+
 """)
