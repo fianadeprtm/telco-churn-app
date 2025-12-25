@@ -278,4 +278,5 @@ else:  # Model Info
 # Footer
 st.markdown("---")
 
-st.markdown("**UAS Bengkel Koding Data Science - 2025**")
+st.markdown("**UAS Bengkel Koding Data Science DS04 - 2025**")
+st.markdown("**A11.2022.14236 - ALFIAN ADE PRATAMA**")
