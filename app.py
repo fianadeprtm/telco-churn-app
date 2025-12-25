@@ -277,4 +277,5 @@ else:  # Model Info
 
 # Footer
 st.markdown("---")
-st.markdown("**UAS Bengkel Koding Data Science - 2024**")
+
+st.markdown("**UAS Bengkel Koding Data Science - 2025**")
